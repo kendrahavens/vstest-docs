@@ -39,12 +39,12 @@ Passed   TestNameSpace.UnitTestClass.TestMethod2
 Passed   TestNameSpace.UnitTestClass.TestMethod3
 Passed   TestNameSpace.UnitTestClass.TestMethod4
 Passed   TestNameSpace.UnitTestClass.TestMethod5
-Canceling test run: test run timeout of 10000 milliseconds exceeded.
+Aborting test run: test run timeout of 10000 milliseconds exceeded.
 Passed   TestNameSpace.UnitTestClass.TestMethod6
 Passed   TestNameSpace.UnitTestClass.TestMethod6
 
 Total tests: 7. Passed: 7. Failed: 0. Skipped: 0.
-Test Run Canceled.
+Test Run Aborted.
 Test execution time: 18.2893 Seconds
 ```
 
